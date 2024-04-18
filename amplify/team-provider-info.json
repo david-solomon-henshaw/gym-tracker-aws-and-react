@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "gymtrackerawsandreacd9d72b57": {}
+      },
+      "api": {
+        "gymtrackerapi": {}
       }
     }
   }
